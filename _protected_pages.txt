@@ -9,12 +9,3 @@ page08.html 241201
 page09.html 241201
 page10.html 241201
 page11.html 241201
-page12.html 241201
-page13.html 241201
-page14.html 241201
-page15.html 241201
-page16.html 241201
-page17.html 241201
-page18.html 241201
-page19.html 241201
-page20.html 241201
