@@ -1,3 +1,3 @@
-# Confidential Page
+# Confidential Page 🚫
 
-## Based on Your Consciousness
+## Open only if your conscience allows it.
