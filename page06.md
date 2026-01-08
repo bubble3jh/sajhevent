@@ -2,16 +2,16 @@
 title: Page 06
 ---
 
-> 상아를 만나며, 떠나며 든 마음들
+> 상아와의 연애 초기
 
-> 미국에서도 계속 생각할거야
+> 추운 겨울에도 상아 덕에 따뜻했어
 
 ---
 
 <iframe
   width="560"
   height="315"
-  src="https://www.youtube.com/embed/"
+  src="https://www.youtube.com/embed/lJyi0phz5ug"
   title="🎵"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

@@ -2,16 +2,14 @@
 title: Page 11
 ---
 
-> 상아를 만나며, 떠나며 든 마음들
-
-> 미국에서도 계속 생각할거야
+> 내가 생각하는 사랑이란
 
 ---
 
 <iframe
   width="560"
   height="315"
-  src="https://www.youtube.com/embed/"
+  src="https://www.youtube.com/embed/ejY-UN7Qhp4"
   title="🎵"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
