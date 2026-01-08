@@ -10,7 +10,7 @@ title: Page 05
 
 ### 미래가 다가온다 다가와..! ✨
 
-![결혼식](./src/gen/wed.png)
+![결혼식](./img/gen/wed.png)
 
 <iframe
   width="560"
