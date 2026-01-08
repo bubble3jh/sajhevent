@@ -23,7 +23,7 @@ title: Page 05
 ---
 
 <details>
-<summary>진실 파헤치기</summary>
+<summary>시공간의 균열을 열고 미래를 훔쳐보기</summary>
 ![결혼식](./img/gen/wed.png)
 
 어때...?? 내가 직접 그렸어!!
