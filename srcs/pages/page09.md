@@ -160,7 +160,7 @@
 
                                           <p>상아 이거 까먹었다고 하면 엉엉 움..</p>
                                           <img
-                                            src="../img/food/1만든평냉.jpg"
+                                            src="../img/food/11추석진호정식.jpg"
                                             alt="11"
                                             style="max-width:100%; border-radius:10px; margin:10px 0 6px;"
                                           >
