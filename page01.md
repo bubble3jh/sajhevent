@@ -8,14 +8,6 @@ title: Page 01
 
 ---
 
-### 게임이다 게임! ✨
-
-내가 없어도 불쑥 불쑥
-
-튀어나오는 단서의 재미를 위해
-
-억지로 대청소를 하지는 말아주세용!!
-
 <iframe
   width="560"
   height="315"
@@ -25,4 +17,16 @@ title: Page 01
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
+
+---
+
+### 게임이다 게임! ✨
+
+내가 없어도 불쑥 불쑥
+
+튀어나오는 단서의 재미를 위해
+
+억지로 대청소를 하지는 말아주세용!!
+
+
 

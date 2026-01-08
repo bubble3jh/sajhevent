@@ -5,6 +5,18 @@ title: Page 04
 > 나의 손은 상아의 눈보다 빠르다
 
 > 이것은 입에서 나는 소리가 아니여 (레고잉!)
+---
+
+### 오늘의 노래 🎵
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/fJWswthDIXQ"
+  title="🎵"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
 
 ---
 
@@ -26,15 +38,3 @@ _과연 이게 끝일까?_
 
 핫핫핫!
 </details>
----
-
-### 오늘의 노래 🎵
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/fJWswthDIXQ"
-  title="🎵"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
