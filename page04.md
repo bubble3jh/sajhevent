@@ -10,14 +10,15 @@ title: Page 04
 
 ### 숨겨진 진실 🖼️
 
-![우리가 같이 알고 있는 장면](/src/lego_ori.jpg)
+![우리가 같이 알고 있는 장면](/img/lego_ori.jpg)
 
 _과연 이게 끝일까?_
 <details>
 <summary>진실 파헤치기</summary>
 
 ## 상아가 잠깐 고개를 돌린 사이
-![타짜 강씨의 순간적인 조작능력](/src/gen/lego_gen.png)
+
+![타짜 강씨의 순간적인 조작능력](/img/gen/lego_gen.png)
 </details>
 ---
 
