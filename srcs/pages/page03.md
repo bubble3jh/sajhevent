@@ -14,7 +14,7 @@ title: Page 03
 
 ---
 <details>
-<summary>Lv.1 Mild Stress</summary>
+<summary style="cursor:pointer; font-weight:700;">Lv.1 Mild Stress</summary>
 <iframe
   width="560"
   height="315"
@@ -31,7 +31,7 @@ Enjoy.
 ---
 
 <details>
-<summary>Lv.2 Moderate Stress</summary>
+<summary style="cursor:pointer; font-weight:700;">Lv.2 Moderate Stress</summary>
 <a class="twitter-timeline" href="https://twitter.com/Wanananan0950?ref_src=twsrc%5Etfw">
   Free your stress
 </a> 
