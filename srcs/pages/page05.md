@@ -24,7 +24,8 @@ title: Page 05
 
 <details>
 <summary>시공간의 균열을 열고 미래를 훔쳐보기</summary>
-![결혼식](./img/gen/wed.png)
+
+![결혼식](../img/gen/wed.png)
 
 어때...?? 내가 직접 그렸어!!
 
@@ -35,6 +36,7 @@ title: Page 05
 정다아아압!!! 외치고 사진 보내줘
 
 내가 소정의.... 애정표현을.... 헤헷!💖
+
 </details>
 
 

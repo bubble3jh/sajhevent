@@ -20,7 +20,7 @@ title: Page 08
 
 ---
 
-![dog](./img/dogs.jpg)
+![dog](../img/dogs.jpg)
 
 이 강쥐들 기억나...??
 
@@ -28,7 +28,8 @@ title: Page 08
 
 <details>
 <summary>지금은 어떨까?</summary>
-![dogs_cry](./img/gen/dogs_cry.png)
+
+![dogs_cry](../img/gen/dogs_cry.png)
 
 지금은 더 더 논문에 치인다요오오오 ㅠㅜㅜㅜㅜ
 
