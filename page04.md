@@ -1,5 +1,5 @@
 ---
-title: Page 03
+title: Page 04
 ---
 
 > 나의 손은 상아의 눈보다 빠르다
@@ -17,7 +17,7 @@ _과연 이게 끝일까?_
 <summary>진실 파헤치기</summary>
 
 ## 상아가 잠깐 고개를 돌린 사이
-![타짜 강씨의 순간적인 조작능력](./src/gen/lego_gen.jpg)
+![타짜 강씨의 순간적인 조작능력](./src/gen/lego_gen.png)
 </details>
 ---
 
