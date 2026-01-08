@@ -1,42 +1,46 @@
 ---
-title: Page 00
+title: Page 02
 ---
 
-> 여기까지 와줘서 고마워.  
-> 이건 첫 번째로 숨긴 마음이야.
+> 이건 두번째 쪽지 입니다.
 
----
+> 사실은 순서는 딱히 없습니다.
 
-### 🌱 오늘의 마음
-
-가끔은  
-말하지 않은 감정이  
-가장 오래 남더라.
-
-너에게는  
-천천히 보여주고 싶었어.
+> 그래도 숨길때는 두번째로 숨겼습니다.
 
 ---
 
-### 🖼️ 함께 남기고 싶은 장면 (선택)
+### 일방적인 취향 공유 TIME! ✨
 
-![기억하고 싶은 순간](./images/page01.jpg)
+[x] 평양냉면
 
-_이 사진은, 말보다 오래 남는 장면이야._
+[x] 어패류
 
----
+[△] 친구 모임
 
-### 🎧 함께 듣고 싶은 것 (선택)
+[△] 게임
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/VIDEO_ID"
-title="YouTube video player"
-frameborder="0"
-allowfullscreen></iframe>
+[△] 인디/옛날 노래
 
----
+[△] 정조대(?)
 
-### 🔒 다음 페이지에 남길 말
+[ ] 침착맨
 
-다음 페이지에는  
-조금 더 솔직해질지도 몰라.
+[ ] 헬스장
+
+[ ] 또 뭐가 있을깡...?
+
+이 쪽지를 찾으면 상아의 취향을 list up 해서 보내줘!
+
+
+### 오늘의 노래 🎵
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/SfzPdG3hN7Y"
+  title="🎵"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+

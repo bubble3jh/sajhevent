@@ -1,42 +1,34 @@
 ---
-title: Page 00
+title: Page 03
 ---
 
-> 여기까지 와줘서 고마워.  
-> 이건 첫 번째로 숨긴 마음이야.
-
----
-
-### 🌱 오늘의 마음
-
-가끔은  
-말하지 않은 감정이  
-가장 오래 남더라.
-
-너에게는  
-천천히 보여주고 싶었어.
+> 센치해요 오늘은..
 
 ---
 
-### 🖼️ 함께 남기고 싶은 장면 (선택)
+### 노래 공유
 
-![기억하고 싶은 순간](./images/page01.jpg)
+상아 마음과 찰떡인 것 같은 노래를 찾아서 공유합니다~
 
-_이 사진은, 말보다 오래 남는 장면이야._
+```lyrics
+...
 
----
+그대는 노래 말고 사랑이나 되어주지
 
-### 🎧 함께 듣고 싶은 것 (선택)
+왜 나를 떠나서 아픈 문장이 돼버렸나
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/VIDEO_ID"
-title="YouTube video player"
-frameborder="0"
-allowfullscreen></iframe>
+...
+```
 
----
 
-### 🔒 다음 페이지에 남길 말
+### 오늘의 노래 🎵
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/7pGQq3Uppe8"
+  title="🎵"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
 
-다음 페이지에는  
-조금 더 솔직해질지도 몰라.
