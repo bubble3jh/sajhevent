@@ -25,9 +25,6 @@ title: Page 05
 <details>
 <summary>시공간의 균열을 열고 미래를 훔쳐보기</summary>
 
-<p>
-시공간의 균열을 열고 미래를 훔쳐보기<br><br>
-
 <img src="/sajhevent/srcs/img/gen/wed.png" alt="결혼식" style="max-width:100%; border-radius:8px;"><br><br>
 
 어때...?? 내가 직접 그렸어!! 라고 해봤자 안믿겠지..?! ㅎㅎㅎㅎ<br>

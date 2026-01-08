@@ -27,14 +27,14 @@
     alt="진호표 평양 냉면"
     style="max-width:100%; border-radius:10px; margin:10px 0 6px;"
   >
-  <p>전설의(?) 시작...</p>
+  <p>전설의(?) 시작... 진호표 평냉!!!</p>
 
   <!-- Level 1 -->
   <details style="margin:12px 0;">
     <summary style="cursor:pointer; font-weight:700;">그 다음 뭐 먹었지?</summary>
     <div style="margin-top:12px;">
 
-      <p>두번째는 바로바로</p>
+      <p>두번째는 바로바로 pittsburg McDonalds!</p>
       <img
         src="../img/food/2미국맥날.jpg"
         alt="2"
@@ -47,7 +47,7 @@
         <summary style="cursor:pointer; font-weight:700;">그 다음 뭐 먹었지?</summary>
         <div style="margin-top:12px;">
 
-          <p>세번째애느으으은~</p>
+          <p>세번째애느으으은~ 주향이다옹!!!!!</p>
           <img
             src="../img/food/3주향.jpg"
             alt="3"
@@ -61,21 +61,22 @@
             <summary style="cursor:pointer; font-weight:700;">그 다음 뭐 먹었지?</summary>
             <div style="margin-top:12px;">
 
-              <p>말이 필요 없죠.. 최고 맛집...!!</p>
+              <p>말이 필요 없죠.. 최고 맛집...!! 백!!소!!정!!</p>
               <img
                 src="../img/food/4백소정.jpg"
                 alt="4"
                 style="max-width:100%; border-radius:10px; margin:10px 0 6px;"
               >
               <p>아 이게 아닌가? ㅋㅋㅋㅋㅋ</p>
-              <p><strong>PASS!!!!</strong></p>
+              <p>크흠흠...</p>
+              <p><strong>PASS!!!! ㅋㅋㅋ</strong></p>
 
               <!-- Level 4 -->
               <details style="margin:12px 0;">
                 <summary style="cursor:pointer; font-weight:700;">그 다음 뭐 먹었지?</summary>
                 <div style="margin-top:12px;">
 
-                  <p>개인적으로 까아아암짝! 놀랐던!</p>
+                  <p>개인적으로 까아아암짝! 놀랐던! 잘빠진메밀이다옹</p>
                   <img
                     src="../img/food/5잘빠진메밀.jpg"
                     alt="5"
@@ -90,6 +91,7 @@
                     <div style="margin-top:12px;">
 
                       <p>이건 진짜 상아가 기다리고 있었던 것일거야</p>
+                      <p>바로 대게대게 맛있는 대게!!</p>
                       <img
                         src="../img/food/6대게.jpg"
                         alt="6"
@@ -133,6 +135,7 @@
                                 <div style="margin-top:12px;">
 
                                   <p>이건 나의 골뱅이야.. (하고 쪼꼼 뿌듯했다는 뜻 ㅎㅎㅎ)</p>
+                                  <p>야무지게 먹던 우니 n 단새우 set!</p>
                                   <img
                                     src="../img/food/9우니추가.jpg"
                                     alt="9"
@@ -146,6 +149,7 @@
                                     <div style="margin-top:12px;">
 
                                       <p>이것도 즈으응말 맛있었지요옹</p>
+                                      <p>지글지글 장어구이...!!</p>
                                       <img
                                         src="../img/food/10장어.jpg"
                                         alt="10"
@@ -159,6 +163,7 @@
                                         <div style="margin-top:12px;">
 
                                           <p>상아 이거 까먹었다고 하면 엉엉 움..</p>
+                                          <p>JH's FineDining..❣</p>
                                           <img
                                             src="../img/food/11추석진호정식.jpg"
                                             alt="11"
@@ -172,6 +177,7 @@
                                             <div style="margin-top:12px;">
 
                                               <p>상아 영업해서 너무너무 뿌듯했던!!</p>
+                                              <p>평양냉면!!!</p>
                                               <img
                                                 src="../img/food/12평냉.jpg"
                                                 alt="12"
@@ -185,6 +191,7 @@
                                                 <div style="margin-top:12px;">
 
                                                   <p>잠깐 Hey You..!</p>
+                                                  <p>지금 너무 침흘리고 있지는 않나요..?!</p>
                                                   <img
                                                     src="../img/gen/49c.png"
                                                     alt="49c"
@@ -193,7 +200,7 @@
                                                   <p>
                                                     침 흘리는 것은 좋지만... 잊지 않으셨죠...?!?<br><br>
                                                     저 기대합니다...!!<br>
-                                                    기대... 기대...<br><br>
+                                                    그거 기대... 기대...<br><br>
                                                     <strong>기대합니다!!</strong>
                                                   </p>
 
