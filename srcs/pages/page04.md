@@ -28,13 +28,24 @@ _과연 이게 끝일까?_
 <details>
 <summary>진실 파헤치기</summary>
 
-## 상아가 잠깐 고개를 돌린 사이
+<div style="margin-top:12px; line-height:1.6;">
 
-![타짜 강씨의 순간적인 조작능력](../img/gen/lego_gen.png)
+  <p><strong>상아가 잠깐 고개를 돌린 사이</strong></p>
 
-우하하 어때?! 까아암짝 놀랐지?!
+  <img
+    src="../img/gen/lego_gen.png"
+    alt="타짜 강씨의 순간적인 조작능력"
+    style="max-width:100%; border-radius:8px; margin:12px 0;"
+  >
 
-앞으로는 한 눈 팔지 말고 내 애정표현 다아ㅏ아ㅏ 받아내도록!!
+  <p>
+    우하하 어때?! 까아암짝 놀랐지?!<br><br>
 
-핫핫핫!
+    앞으로는 한 눈 팔지 말고<br>
+    내 애정표현 다아ㅏ아ㅏ 받아내도록!!<br><br>
+
+    핫핫핫!
+  </p>
+
+</div>
 </details>

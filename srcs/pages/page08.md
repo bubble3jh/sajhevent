@@ -29,16 +29,25 @@ title: Page 08
 <details>
 <summary>지금은 어떨까?</summary>
 
-![dogs_cry](../img/gen/dogs_cry.png)
+<div style="margin-top:12px; line-height:1.7;">
 
-지금은 더 더 논문에 치인다요오오오 ㅠㅜㅜㅜㅜ
+  <img
+    src="../img/gen/dogs_cry.png"
+    alt="dogs_cry"
+    style="max-width:100%; border-radius:8px; margin:10px 0 14px;"
+  >
 
-강쥐 죽어잉 멍ㅁ엄엄엄어멍머ㅓㅇ멍
+  <p>
+    지금은 더 더 논문에 치인다요오오오 ㅠㅜㅜㅜㅜ<br><br>
 
-이거 찾으면 다음에 영통할 시작할 때 갑자기 막 짖어줘!!!! 
+    강쥐 죽어잉 멍ㅁ엄엄엄어멍머ㅓㅇ멍<br><br>
 
-기대할게!! 헤헷!💖
+    이거 찾으면 다음에 영통할 시작할 때 갑자기 막 짖어주라!!!!<br><br>
 
+    기대할게!! 헤헷!💖
+  </p>
+
+</div>
 </details>
 
 
